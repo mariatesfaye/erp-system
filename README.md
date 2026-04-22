@@ -155,15 +155,26 @@ npm run dev
 
 ## Screenshots
 
-Add screenshots here:
+### Login
+![Login Page](frontend/public/assets/login.jpg)
 
-- `frontend/public/assets/login.png` — Login page
-- `docs/screenshots/products.png` — Products list
-- `docs/screenshots/product-detail.png` — Product detail + balance
-- `docs/screenshots/stock.png` — Stock IN form
-- `docs/screenshots/customers.png` — Customers page
-- `docs/screenshots/invoices-list.png` — Invoices list
-- `docs/screenshots/invoice-detail.png` — Invoice draft/issued detail
+### Products
+![Products List](frontend/public/assets/products.jpg)
+
+### Product Detail
+![Product Detail](frontend/public/assets/product-detail.jpg)
+
+### Stock
+![Stock Page](frontend/public/assets/stock.jpg)
+
+### Customers
+![Customers Page](frontend/public/assets/customers.jpg)
+
+### Invoices List
+![Invoices List](frontend/public/assets/invoices-list.jpg)
+
+### Invoice Detail
+![Invoice Detail](frontend/public/assets/invoice-detail.jpg)
 
 ## Why This Project Is Interesting
 
