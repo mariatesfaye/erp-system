@@ -162,7 +162,7 @@ npm run dev
 ![Products List](frontend/public/assets/products.jpg)
 
 ### Product Detail
-![Product Detail](frontend/public/assets/product-detail.jpg)
+![Product Detail](frontend/public/assets/products-detail.jpg)
 
 ### Stock
 ![Stock Page](frontend/public/assets/stock.jpg)
@@ -174,7 +174,7 @@ npm run dev
 ![Invoices List](frontend/public/assets/invoices-list.jpg)
 
 ### Invoice Detail
-![Invoice Detail](frontend/public/assets/invoice-detail.jpg)
+![Invoice Detail](frontend/public/assets/invoices-detail.jpg)
 
 ## Why This Project Is Interesting
 
