@@ -63,7 +63,7 @@ erp-system/
 ### 2) Clone and install
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/mariatesfaye/erp-system
 cd erp-system
 ```
 
