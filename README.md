@@ -157,7 +157,7 @@ npm run dev
 
 Add screenshots here:
 
-- `docs/screenshots/login.png` — Login page
+- `frontend/public/assets/login.png` — Login page
 - `docs/screenshots/products.png` — Products list
 - `docs/screenshots/product-detail.png` — Product detail + balance
 - `docs/screenshots/stock.png` — Stock IN form
