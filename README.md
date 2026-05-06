@@ -1,4 +1,4 @@
-# Mini ERP (Portfolio MVP)
+# Mini ERP
 
 A minimal full-stack ERP-style application focused on core business workflows:
 
@@ -6,7 +6,7 @@ A minimal full-stack ERP-style application focused on core business workflows:
 - inventory management (products + stock IN/OUT ledger)
 - invoicing with transactional stock deduction
 
-This project is intentionally lean and practical for portfolio demonstration.
+I made this project intentionally lean and practical for portfolio demonstration.
 
 ## Features
 
