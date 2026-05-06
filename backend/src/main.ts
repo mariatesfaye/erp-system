@@ -3,11 +3,18 @@ import { NestFactory } from '@nestjs/core';
 import { AppModule } from './app.module';
 
 async function bootstrap() {
+  const allowedOrigins = [
+    'http://localhost:3000',
+    'http://localhost:3001',
+    'https://erp-system-phi-gules.vercel.app',
+  ];
+  
   const app = await NestFactory.create(AppModule, {
     cors: {
-      origin: 'http://localhost:3001',
+      origin: allowedOrigins,
       methods: ['GET', 'HEAD', 'PUT', 'PATCH', 'POST', 'DELETE', 'OPTIONS'],
       allowedHeaders: ['Content-Type', 'Authorization'],
+      credentials: true,
     },
   });
 
