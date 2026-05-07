@@ -1,5 +1,8 @@
 # Mini ERP
 
+## 🚀 Demo
+[Live Demo](https://erp-system-phi-gules.vercel.app)
+
 A minimal full-stack ERP-style application focused on core business workflows:
 
 - authentication with role-based access
